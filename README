@@ -1,0 +1,9 @@
+gilbreth-tools
+--------------
+[ ] set up an environment at a specified loc using `venv`
+[ ] get a list of environments created using this tool and the size of each environment
+[ ] make modular venvs
+  [ ] a venv can be activated on top of another venv so that both envs are used
+[ ] wrapper around the fake-interactive slurm job
+[ ] maintain a list of scheduled jobs 
+[ ] set up a jupyer nb pipline over ssh
